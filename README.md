@@ -1,5 +1,5 @@
 Hi 👋, I'm Chandan N <br>
-A passionate Embedded Software Engineer from Bangalore, India 🇮🇳
+A passionate Embedded Software Engineer from Bangalore, India 🇮🇳 looking for the oppurtunity to showcase my skills & experiences.
 # 💫 About Me:
 🌱 I’m currently looking for Embedded Software Engineer role & I am involved in learning DSA in C++<br>🔭 I’m currently solving problems on Leetcode<br>📑 Check out my resume here - [https://drive.google.com/file/d/1b2p49cOvQ4jfJ46eBlEOEl0vRltxeUwE/view?usp=sharing](https://drive.google.com/file/d/1-60S-X79AoVjbxiLTxk82yqWbfqbSRaA/view?usp=sharing)<br>💻 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br>📫 Reach out to me at nchandan742@gmail.com
 
