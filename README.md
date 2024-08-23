@@ -1,7 +1,7 @@
 Hi 👋, I'm Chandan.N <br>
 A professional Technical Service Specialist at SolarEdge Technologies from Bangalore, India (🇮🇳).
 # 💫 About Me:
-🌱 I’m having passionate about the Embedded System & I'm looking forward for Software Engineer role being skilled in Embedded C, C++, Python.<br>📑 Check out my Resume here - [[[[file:///G:/My%20Drive/Resume/Chandan_N_Resume.pdf]](https://drive.google.com/file/d/1Ga20eg5tMQPsE7X5rc7jrTfiRr7K-aP1/view?usp=sharing)](https://drive.google.com/open?id=1Evs2v7WztOL0Q39NG4Ko5spXPgZBcHAv&usp=drive_fs)](https://drive.google.com/open?id=1Ew8C_GFrppAdoS9DVtgsyu_q_BVwujSp&usp=drive_fs)<br>💻 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br>📫 Reach out to me at nchandan742@gmail.com
+🌱 I’m having passionate about the Embedded System & I'm looking forward for Software Engineer role being skilled in Embedded C, C++, Python.<br>📑 Check out my Resume here - [(https://drive.google.com/file/d/1Ga20eg5tMQPsE7X5rc7jrTfiRr7K-aP1/view?usp=sharing)](https://drive.google.com/open?id=1Evs2v7WztOL0Q39NG4Ko5spXPgZBcHAv&usp=drive_fs)](https://drive.google.com/open?id=1Ew8C_GFrppAdoS9DVtgsyu_q_BVwujSp&usp=drive_fs)<br>💻 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br>📫 Reach out to me at nchandan742@gmail.com
 
 
 ## 🌐 Socials:
