@@ -5,7 +5,6 @@ A professional Technical Service Specialist at SolarEdge Technologies from Banga
 📑 Check out my Resume here -(https://drive.google.com/open?id=1FIbDO4JPTGCRgpOY-_Cx3AOFdoMN3Ufu&usp=drive_fs)<br>
 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br> 📫 Reach out to me at nchandan742@gmail.com
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-n-27509b24b) 
 
