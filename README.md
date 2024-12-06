@@ -1,5 +1,5 @@
 Hi 👋, I'm Chandan. N <br>
-A professional Technical Service Specialist at SolarEdge Technologies from Bangalore, India (🇮🇳).
+A professional Technical Service Specialist at SolarEdge Technologies from Bangalore, India (🇮🇳). 
 # 💫 About Me: 
 🌱 I am enthusiastic about Embedded Systems, particularly interested in real-time applications and low-power design. I aspire to a position as an Embedded Engineer, capitalizing on my proficiency in Embedded C, C++, and Python.<br>
 📑 Check out my Resume here -(https://drive.google.com/open?id=1FIbDO4JPTGCRgpOY-_Cx3AOFdoMN3Ufu&usp=drive_fs)<br>
