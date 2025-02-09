@@ -1,6 +1,6 @@
 Hi 👋, I'm Chandan. N <br>
 A Professional Technical Service Specialist with expertise in Solar Energy Products like Inverters and Power Optimizers at SolarEdge Technologies from Bangalore, India (🇮🇳). <br>
- I'm passionate about Embedded Systems. Enthusiastic in learning new things with expertise in C/C++, Embedded C, and Embedded Firmware.
+ I'm passionate about Embedded Systems. Enthusiastic in learning new things with expertise in C/C++, Embedded C, and Embedded Firmware. Experienced in leadership with strong team management and decision-making skills
 # 💫 About Me: 
 🌱 I am enthusiastic about Embedded Systems, particularly interested in real-time applications and low-power design. I aspire to a position as an Embedded Engineer, capitalizing on my proficiency in Embedded C, C++. Enthusiastic in learning new things with expertise in C/C++, Embedded C, and Embedded Firmware.<br>
 📑 Check out my Resume here -(https://drive.google.com/open?id=1FO_9UFVI1_6GhGXaGiPmH1RSEmUmVke6&usp=drive_fs)<br>
