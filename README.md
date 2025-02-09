@@ -13,7 +13,8 @@ Feel free to connect and collaborate!
 # 💫 About Me: 
 🌱 I am enthusiastic about Embedded Systems, particularly interested in real-time applications and low-power design. I aspire to a position as an Embedded Engineer, capitalizing on my proficiency in Embedded C, C++. Enthusiastic in learning new things with expertise in C/C++, Embedded C, and Embedded Firmware.<br>
 📑 Check out my Resume here -[(https://drive.google.com/open?id=1FO_9UFVI1_6GhGXaGiPmH1RSEmUmVke6&usp=drive_fs)](https://drive.google.com/open?id=1FO_9UFVI1_6GhGXaGiPmH1RSEmUmVke6&usp=drive_fs)<br>
-All of my projects are available on https://github.com/ChandanNarasimhamurthy<br> 📫 Reach out to me at nchandan742@gmail.com
+All of my projects are available on https://github.com/ChandanNarasimhamurthy<br> 
+📫 Reach out to me at nchandan742@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandan-n-27509b24b) 
