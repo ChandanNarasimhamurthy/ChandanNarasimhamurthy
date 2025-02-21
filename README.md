@@ -1,5 +1,5 @@
 Hi 👋, I'm Chandan N<br>
-A Professional Technical Service Specialist with expertise in Solar Energy Products like Inverters and Power Optimizers at SolarEdge Technologies, Bangalore, India (🇮🇳). <br>
+A Professional Technical Service Specialist with expertise in Solar Energy Products like Inverters, Optimizers and Batteries at SolarEdge Technologies, Bangalore, India (🇮🇳). <br>
 🔹 Passionate about Embedded Systems<br>
 🔹 Proficient in C/C++, Embedded C, and Embedded Firmware<br>
 🔹 Enthusiastic about continuous learning and innovation<br>
