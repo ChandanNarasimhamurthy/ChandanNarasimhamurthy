@@ -3,7 +3,7 @@ A Professional Technical Service Specialist with expertise in Solar Energy Produ
 🔹 Passionate about Embedded Systems. <br>
 🔹 Proficient in C Programming, C++, Embedded C, and Embedded Firmware. <br>
 🔹 Enthusiastic about continuous learning and innovation. <br>
-🔹 Experienced in leadership and strategic decision-making. <br>
+🔹 Problem-solving skills coupled with effective communication. <br>
 
 Always eager to explore new technologies and contribute to impactful projects! 🚀
 
