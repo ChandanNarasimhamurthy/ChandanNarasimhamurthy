@@ -10,7 +10,7 @@ Always eager to explore new technologies and contribute to impactful projects! �
 Feel free to connect and collaborate!
 
 # 💫 About Me: 
-🌱 I am enthusiastic about Embedded Systems, particularly interested in real-time applications and low-power design. I aspire to a position as an Embedded Engineer, capitalizing on my proficiency in Embedded C, C++. Enthusiastic in learning new things with expertise in C/C++, Embedded C, and Embedded Firmware.<br>
+🌱 I am enthusiastic in learning new things with expertise in C Programming, C++, Embedded C, and Embedded Firmware. Proven problem-solving skills coupled with effective communication.<br>
 📑 Check out my Resume here -(https://drive.google.com/file/d/11Q_4Nd_-IgJcN32s0woj5qBUrM6zr-T7/view?usp=drive_link)<br>
 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br> 
 📫 Reach out to me at nchandan742@gmail.com
