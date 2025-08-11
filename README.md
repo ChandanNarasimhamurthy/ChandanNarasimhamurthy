@@ -1,5 +1,6 @@
 Hi 👋, I'm Chandan N<br>
-Electrical and Electronics Engineer with professional experience in Power electronics and Solar technology at SolarEdge. Proven ability to Troubleshoot and resolve technical issues with Renewable Energy products like Solar Inverters, Batteries, and Backup systems. <br>
+Electrical and Electronics Engineer with professional experience in Power electronics and Solar technology at SolarEdge. 
+Proven ability to Troubleshoot and resolve technical issues with Renewable Energy products like Solar Inverters, Batteries, and Backup systems. <br>
 
 Seeking to apply practical skills and a strong academic foundation in an engineering role at a leading company.<br>
 
