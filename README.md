@@ -4,8 +4,8 @@ Proven ability to Troubleshoot and resolve technical issues with Renewable Energ
 
 Seeking to apply practical skills and a strong academic foundation in an engineering role at a leading company.<br>
 
-🔹 Passionate about Embedded Systems. <br>
-🔹 Proficient in C Programming, C++, Embedded C, and Embedded Firmware. <br>
+🔹 Passionate about Power Electronics and Embedded Systems. <br>
+🔹 Proficient in Power Electronics, Renewable energy, C Programming, Embedded C, and Embedded Firmware. <br>
 🔹 Enthusiastic about continuous learning and innovation. <br>
 🔹 Problem-solving skills coupled with effective communication. <br>
 
