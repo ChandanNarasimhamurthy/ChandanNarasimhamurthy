@@ -13,7 +13,6 @@ Seeking to apply practical skills and a strong academic foundation in an enginee
 
 Always eager to explore new technologies and contribute to impactful projects! 🚀
 
-Feel free to connect and collaborate!
 
 # 💫 About Me: 
 🌱 I am enthusiastic in learning new things with expertise in C Programming, C++, Embedded C, and Embedded Firmware. Proven problem-solving skills coupled with effective communication.<br>
