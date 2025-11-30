@@ -1,6 +1,8 @@
 Hi 👋, I'm Chandan N<br>
-Electrical and Electronics Engineer with professional experience in Power electronics and Solar technology at SolarEdge.<br>
-Proven ability to Troubleshoot and resolve technical issues with Renewable Energy products like Solar Inverters, Batteries, and Backup systems.<br>
+
+Renewable Energy Project In-Charge with experience in solar, wind, PPC, BESS, and hybrid automation systems. Skilled in end-to-end project execution, SCADA/PLC integrations, inverter troubleshooting, and real-time processing frameworks.<br>
+
+Proven ability in risk management, resource planning, vendor coordination, and cross-functional team leadership. Focused on delivering high-quality solutions, maintaining client satisfaction, and ensuring on-time, within-budget project delivery.<br>
 
 Seeking to apply practical skills and a strong academic foundation in an engineering role at a leading company.<br>
 
