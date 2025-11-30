@@ -1,4 +1,4 @@
-Hi 👋, I'm Chandan N<br>
+Hi 👋, I'm Chandan N <br>
 
 Renewable Energy Project In-Charge with experience in solar, wind, PPC, BESS, and hybrid automation systems. Skilled in end-to-end project execution, SCADA/PLC integrations, inverter troubleshooting, and real-time processing frameworks.<br>
 
