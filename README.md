@@ -1,21 +1,14 @@
 Hi 👋, I'm Chandan N <br>
 
-Renewable Energy Project In-Charge with experience in solar, wind, PPC, BESS, and hybrid automation systems. Skilled in end-to-end project execution, SCADA/PLC integrations, inverter troubleshooting, and real-time processing frameworks.<br>
+Technical Project In-Charge with hands-on experience in Solar and Wind Power plant automation, PLC & SCADA systems, project planning, and client management. Proven track record of delivering projects on time, within scope, and with high quality. Skilled in risk mitigation, resource planning, commissioning support, and cross-functional coordination.<br>
 
 Proven ability in risk management, resource planning, vendor coordination, and cross-functional team leadership. Focused on delivering high-quality solutions, maintaining client satisfaction, and ensuring on-time, within-budget project delivery.<br>
-
-Seeking to apply practical skills and a strong academic foundation in an engineering role at a leading company.<br>
-
-🔹 Passionate about Power Electronics and Embedded Systems. <br>
-🔹 Proficient in Power Electronics, Renewable energy, C Programming, Embedded C, and Embedded Firmware. <br>
-🔹 Enthusiastic about continuous learning and innovation. <br>
-🔹 Problem-solving skills coupled with effective communication. <br>
 
 Always eager to explore new technologies and contribute to impactful projects! 🚀
 
 
 # 💫 About Me: 
-🌱 I am enthusiastic in learning new things with expertise in C Programming, C++, Embedded C, and Embedded Firmware. Proven problem-solving skills coupled with effective communication.<br>
+🌱 I am enthusiastic in learning new things with expertise in Solar and Wind Power plant automation, PLC & SCADA systems, project planning, and client management.<br>
 📑 Check out my Resume here -(https://drive.google.com/file/d/1OjIJIKvDoVcY9Gbbcd5OEQkhhghGgseC/view?usp=drive_link)<br>
 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br> 
 📫 Reach out to me at nchandan742@gmail.com
