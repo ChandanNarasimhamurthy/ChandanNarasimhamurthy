@@ -16,7 +16,7 @@ Always eager to explore new technologies and contribute to impactful projects! �
 
 # 💫 About Me: 
 🌱 I am enthusiastic in learning new things with expertise in C Programming, C++, Embedded C, and Embedded Firmware. Proven problem-solving skills coupled with effective communication.<br>
-📑 Check out my Resume here -(https://drive.google.com/open?id=1-L8k_w1lVNZIYJmqkYL8o_iBdF4qemwJ&usp=drive_fs)<br>
+📑 Check out my Resume here -(https://drive.google.com/file/d/1OjIJIKvDoVcY9Gbbcd5OEQkhhghGgseC/view?usp=drive_link)<br>
 All of my projects are available on https://github.com/ChandanNarasimhamurthy<br> 
 📫 Reach out to me at nchandan742@gmail.com
 
